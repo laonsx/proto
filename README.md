@@ -1,4 +1,4 @@
-# proto
+# protobuf
 grpc-gateway <br><br>
 依赖:<br>
 go get -u google.golang.org/grpc<br>
